@@ -1,0 +1,106 @@
+[
+  {
+    "name": ".DS_Store",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/.DS_Store?ref=main"
+  },
+  {
+    "name": ".gitignore",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/.gitignore?ref=main"
+  },
+  {
+    "name": "README.md",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/README.md?ref=main"
+  },
+  {
+    "name": "app",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/app?ref=main",
+    "children": [
+      {
+        "name": ".DS_Store",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/app/.DS_Store?ref=main"
+      },
+      {
+        "name": "favicon.ico",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/app/favicon.ico?ref=main"
+      },
+      {
+        "name": "favicon_io (3)",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/app/favicon_io%20(3)?ref=main"
+      },
+      {
+        "name": "globals.css",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/app/globals.css?ref=main"
+      },
+      {
+        "name": "header.js",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/app/header.js?ref=main"
+      },
+      {
+        "name": "layout.js",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/app/layout.js?ref=main"
+      },
+      {
+        "name": "old_header.js",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/app/old_header.js?ref=main"
+      },
+      {
+        "name": "page.js",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/app/page.js?ref=main"
+      }
+    ]
+  },
+  {
+    "name": "jsconfig.json",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/jsconfig.json?ref=main"
+  },
+  {
+    "name": "logo.png",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/logo.png?ref=main"
+  },
+  {
+    "name": "next.config.js",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/next.config.js?ref=main"
+  },
+  {
+    "name": "package-lock.json",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/package-lock.json?ref=main"
+  },
+  {
+    "name": "package.json",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/package.json?ref=main"
+  },
+  {
+    "name": "postcss.config.js",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/postcss.config.js?ref=main"
+  },
+  {
+    "name": "public",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/public?ref=main",
+    "children": [
+      {
+        "name": ".DS_Store",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/public/.DS_Store?ref=main"
+      },
+      {
+        "name": "gg_logo",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/public/gg_logo?ref=main"
+      },
+      {
+        "name": "github-mark",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/public/github-mark?ref=main"
+      },
+      {
+        "name": "next.svg",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/public/next.svg?ref=main"
+      },
+      {
+        "name": "vercel.svg",
+        "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/public/vercel.svg?ref=main"
+      }
+    ]
+  },
+  {
+    "name": "tailwind.config.js",
+    "url": "https://api.github.com/repos/abhishekpatil4/gitglance/contents/tailwind.config.js?ref=main"
+  }
+]
